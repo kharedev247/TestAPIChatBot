@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29102.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EchoBot", "EchoBot\EchoBot.csproj", "{EED738F2-56C5-4572-A300-A0197AC0D5BE}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BotTest", "BotTest\BotTest.csproj", "{335CC776-8CA4-4E73-BF1E-71D4D1DF6241}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DocParser", "DocParser\DocParser.csproj", "{261C1961-8B9A-456B-812E-854598803325}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EED738F2-56C5-4572-A300-A0197AC0D5BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EED738F2-56C5-4572-A300-A0197AC0D5BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EED738F2-56C5-4572-A300-A0197AC0D5BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EED738F2-56C5-4572-A300-A0197AC0D5BE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{335CC776-8CA4-4E73-BF1E-71D4D1DF6241}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{335CC776-8CA4-4E73-BF1E-71D4D1DF6241}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{335CC776-8CA4-4E73-BF1E-71D4D1DF6241}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{335CC776-8CA4-4E73-BF1E-71D4D1DF6241}.Release|Any CPU.Build.0 = Release|Any CPU
+		{261C1961-8B9A-456B-812E-854598803325}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{261C1961-8B9A-456B-812E-854598803325}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{261C1961-8B9A-456B-812E-854598803325}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{261C1961-8B9A-456B-812E-854598803325}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5B739A99-9240-418B-BECD-6C7AAC35AB6A}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,13 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/EchoBot/.vs/EchoBot
+/EchoBot/EchoBot/bin/Debug/netcoreapp2.2
+/EchoBot/EchoBot/obj
+/EchoBot/BotManagers/obj
+/EchoBot/BotTest/obj
+/EchoBot/DocParser/obj
+/EchoBot/DocParser/bin/Debug/netcoreapp2.2
+/EchoBot/BotTest/bin/Debug/netcoreapp2.2
+/EchoBot/Common/obj
